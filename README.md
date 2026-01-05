@@ -4,6 +4,14 @@ This project, developed at **Zewail City of Science and Technology** for the **C
 
 ---
 
+## Collaborators
+
+
+- [Aml Ismail](https://github.com/Aml-Ismail)
+- [Youssef Allam](https://github.com/YoussefMAllam)
+- [Mohammad AbdelRahman](https://github.com/MomoAbdelRahman)
+
+
 ## 📌 Project Overview
 
 Academic struggles are often identified only after a student has already failed. This project bridges that gap by predicting student performance mid-term through three primary outputs:
