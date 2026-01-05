@@ -1,5 +1,5 @@
 # Smart Student Performance Prediction System
-
+ 
 This project, developed at **Zewail City of Science and Technology** for the **CIE 417: Machine Learning** course, implements a multi-tier predictive framework to identify student success and academic risk. The system transforms multi-dimensional student data into actionable insights for early academic intervention.
 
 ---
